@@ -22,13 +22,13 @@ If you want to add test images, add image file in 'data' folder.
 
 ### Example
 
-![result1](./readme_img/result1.png)
+![result1](https://github.com/note823/gradcam_resnet18/blob/master/readme_img/result1.PNG)
 
-![result2](./readme_img/result2.png)
+![result2](https://github.com/note823/gradcam_resnet18/blob/master/readme_img/result2.PNG)
 
-!![result3](./readme_img/result3.png)
+!![result3](https://github.com/note823/gradcam_resnet18/blob/master/readme_img/result3.PNG)
 
-![result4](./readme_img/result4.png)
+![result4](https://github.com/note823/gradcam_resnet18/blob/master/readme_img/result4.PNG)
 
-![result5](./readme_img/result5.png)
+![result5](https://github.com/note823/gradcam_resnet18/blob/master/readme_img/result5.PNG)
 
