@@ -1,4 +1,4 @@
-# Grad-CAM for Resnet18
+# Grad-CAM for ResNet18
 
 ### Visualizing Grad-CAM
 
@@ -22,13 +22,13 @@ If you want to add test images, add image file in 'data' folder.
 
 ### Example
 
-![image-20210925175949394](C:\Users\LG\AppData\Roaming\Typora\typora-user-images\image-20210925175949394.png)
+![result image](.\readme_img\result1.png)
 
-![image-20210925180233146](C:\Users\LG\AppData\Roaming\Typora\typora-user-images\image-20210925180233146.png)
+![result image](.\readme_img\result2.png)
 
-![image-20210925180307341](C:\Users\LG\AppData\Roaming\Typora\typora-user-images\image-20210925180307341.png)
+!![result image](.\readme_img\result3.png)
 
-![image-20210925180400795](C:\Users\LG\AppData\Roaming\Typora\typora-user-images\image-20210925180400795.png)
+![result image](.\readme_img\result4.png)
 
-![image-20210925180047419](C:\Users\LG\AppData\Roaming\Typora\typora-user-images\image-20210925180047419.png)
+![result image](.\readme_img\result5.png)
 
