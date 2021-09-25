@@ -8,15 +8,21 @@ python demo.py
 
 
 
+
+
 ### Changing configurations
 
 If you want to change configurations, edit config.py
 
 
 
+
+
 ### Adding test images
 
-If you want to add test images, add image file in 'data' folder.
+If you want to add test images, add images in 'data' folder.
+
+
 
 
 
