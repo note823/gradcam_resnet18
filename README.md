@@ -22,13 +22,13 @@ If you want to add test images, add image file in 'data' folder.
 
 ### Example
 
-![result image](./readme_img/result1.png)
+![result1](./readme_img/result1.png)
 
-![result image](./readme_img/result2.png)
+![result2](./readme_img/result2.png)
 
-!![result image](./readme_img/result3.png)
+!![result3](./readme_img/result3.png)
 
-![result image](./readme_img/result4.png)
+![result4](./readme_img/result4.png)
 
-![result image](./readme_img/result5.png)
+![result5](./readme_img/result5.png)
 
