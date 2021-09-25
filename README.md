@@ -26,7 +26,7 @@ If you want to add test images, add image file in 'data' folder.
 
 ![result2](https://github.com/note823/gradcam_resnet18/blob/master/readme_img/result2.PNG)
 
-!![result3](https://github.com/note823/gradcam_resnet18/blob/master/readme_img/result3.PNG)
+![result3](https://github.com/note823/gradcam_resnet18/blob/master/readme_img/result3.PNG)
 
 ![result4](https://github.com/note823/gradcam_resnet18/blob/master/readme_img/result4.PNG)
 
